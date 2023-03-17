@@ -1,0 +1,20 @@
+.calculator {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+.input-box {
+    margin-bottom: 10px;
+}
+.cal-button {
+    padding: 20px;
+    margin-right: 17px;
+    margin-bottom: 5px;
+}
+.cal-input {
+    height: 10px;
+    padding: 10px;
+}
+.clr-button {
+    background-color: lightblue;
+}
