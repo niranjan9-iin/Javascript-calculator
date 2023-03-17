@@ -1,7 +1,7 @@
 .calculator {
     display: flex;
     flex-direction: column;
-    margin-left: 100px;
+    align-items: center;
 }
 .input-box {
     margin-bottom: 10px;
